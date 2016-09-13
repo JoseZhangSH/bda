@@ -20,6 +20,6 @@ Open and complete [M0_NB1_GettingStarted.ipynb](M0_NB1_GettingStarted.ipynb).
 
 <div class="alert alert-info">
 <b>Contributors</b>:<br>
-<b>Andre Voges</b>, Mieszko Manijak, Gorden Jemwa, Arek Stopczynski, Xiaowen Dong, andYves-Alexandre de Montjoye.
+<b>Andre Voges</b>, Mieszko Manijak, Gorden Jemwa, Arek Stopczynski, Xiaowen Dong, and Yves-Alexandre de Montjoye.
 </div>
 
