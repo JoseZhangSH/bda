@@ -1,5 +1,3 @@
-<center>**Back:** [Module 2 Overview](../module_2/README.md) | **Up:** [Overall Learning Outcomes](../module_0/LearningOutcomes.md) | **Next:** [Module 4 Overview](../module_4/README.md)</center>
-
 # Module 3: First-order analysis and data exploration
 Welcome to your practical assessment for Module 3 of MIT Big Data and Social Analytics.
 
@@ -47,5 +45,3 @@ This notebook starts by geotagging access points for a single user (in the first
 
 **Contributors**:
 **Andre Voges**, **Mieszko Manijak**, **Gorden Jemwa**, **Arek Stopczynski**, Xiaowen Dong, and Yves-Alexandre de Montjoye.
-
-<center>**Back:** [Module 2 Overview](../module_2/README.md) | **Up:** [Overall Learning Outcomes](../module_0/LearningOutcomes.md) | **Next:** [Module 4 Overview](../module_4/README.md)</center>
