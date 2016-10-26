@@ -1,16 +1,12 @@
-<center>**Back:** [Module 5 Overview](../module_5/README.md) | **Up:** [Overall Learning Outcomes](../module_0/LearningOutcomes.md) | **Next:** [Module 7 Overview](../module_7/README.md)</center>
-
-<br><br>
-
 # Module 6: Using data to effect behavior change
 Welcome to your practical assessment for Module 6 of MIT Big Data and Social Analytics.
 
 
 
-## Objective 
+## Objective
 This module explores how to effect behavior change through social influence and social incentives, as well as the importance of privacy-protecting practices.
 
-Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful. 
+Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
 
 We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
 
@@ -28,7 +24,7 @@ In this notebook, you will be introduced to critical elements in implementing te
 # Notebook 2: Privacy by design: Big data and personal data protection
 > **Notebook goal:** Identify the importance, challenges, and approaches to personal data protection in the context of big data.
 
-Advances in technology have resulted in an increase in data collection on individual entities. Unfortunately, this poses a risk to privacy and trust. As a result, many authorities around the globe are introducing regulations for personal data protection. You will be introduced to the concept of data anonymization, and how it is used to mask personal information. 
+Advances in technology have resulted in an increase in data collection on individual entities. Unfortunately, this poses a risk to privacy and trust. As a result, many authorities around the globe are introducing regulations for personal data protection. You will be introduced to the concept of data anonymization, and how it is used to mask personal information.
 
 ####  List of exercises:
 > - **Exercise 1:** Calculate the unicity of a raw data set.
@@ -38,7 +34,4 @@ Advances in technology have resulted in an increase in data collection on indivi
 
 <br></br>
 **Contributors**:
-**Andre Voges**, Mieszko Manijak, **Gorden Jemwa**, Arek Stopczynski, Xiaowen Dong, and Yves-Alexandre de Montjoye.
-
-
-<center>**Back:** [Module 5 Overview](../module_5/README.md) | **Up:** [Overall Learning Outcomes](../module_0/LearningOutcomes.md) | **Next:** [Module 7 Overview](../module_7/README.md)</center>
+**Andre Voges**, **Mieszko Manijak**, **Gorden Jemwa**, Arek Stopczynski, Xiaowen Dong, and **Yves-Alexandre de Montjoye**.
