@@ -1,10 +1,10 @@
-# Module 6: Using data to effect behavior change
+# Module 6: Using data to affect behavior change
 Welcome to your practical assessment for Module 6 of MIT Big Data and Social Analytics.
 
 
 
 ## Objective
-This module explores how to effect behavior change through social influence and social incentives, as well as the importance of privacy-protecting practices.
+This module explores how to affect behavior change through social influence and social incentives, as well as the importance of privacy-protecting practices.
 
 Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
 
