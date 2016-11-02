@@ -9,17 +9,18 @@ Welcome to your practical assessment for Module 8 of MIT Big Data and Social Ana
 
 
 
-## Objective 
+## Objective
 This module will explore how to understand, apply, and gain insights into the use of data in action.
 
-Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful. 
+Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
 
 We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
 
 # Notebook 1: Social analytics blueprint
 > **Notebook goal:**  Outline how to create a blueprint for social physics experiments.
 
-In this notebook, you will learn how  to create a blueprint for your own experiments. The trade-off between scope, time, and delivery is highlighted, leading to the idea of developing a minimum viable product (MVP), and adding features the project matures.
+In this notebook, you will learn how to create a blueprint for your own experiments. The notebook highlights the trade-off between scope, time, and delivery, which leads to the idea of developing a minimum viable product (MVP), and adding features as the project matures.
+
 ####  List of exercises:
 > - **Exercise 1:** Create a blueprint for a big data and social analytics project.
 - **Exercise 2 [Advanced]:** Provide an overview of typical resource requirements, and Phase 0 activities for your selected project.

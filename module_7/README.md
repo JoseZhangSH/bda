@@ -3,7 +3,7 @@ Welcome to your practical assessment for Module 7 of MIT Big Data and Social Ana
 
 
 ## Objective
-This module explores how to use data analysis to Affect a desired change, and apply big data in various industries.
+This module explores how to use data analysis to affect a desired change, and apply big data in various industries.
 
 Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
 
