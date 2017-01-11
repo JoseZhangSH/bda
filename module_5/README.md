@@ -5,7 +5,7 @@ Welcome to your practical assessment for Module 5 of MIT Big Data and Social Ana
 ## Objective
 This module introduces data exploration and visualization techniques using Bandicoot. It also introduces machine learning, in which you will build a predictive model (using Bandicoot features obtained from mobile phone metadata) to predict the socio-economic group to which an individual belongs.
 
-Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
 
 We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
 
