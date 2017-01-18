@@ -1,18 +1,10 @@
-<center>**Back:** [Module 7 Overview](../module_7/README.md) | **Up:** [Overall Learning Outcomes](../module_0/LearningOutcomes.md) | **Home:** [Module 1 Overview](../module_1/README.md)</center>
-
-<br><br>
-
 # Module 8: Data in action
 Welcome to your practical assessment for Module 8 of MIT Big Data and Social Analytics.
-
-
-
-
 
 ## Objective
 This module will explore how to understand, apply, and gain insights into the use of data in action.
 
-Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
 
 We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
 
@@ -38,6 +30,3 @@ Living labs describe the paradigm of working with new ideas and technology, and 
 <br></br>
 **Contributors**:
 **Andre Voges**, Mieszko Manijak, **Gorden Jemwa**, Arek Stopczynski, Xiaowen Dong, and Yves-Alexandre de Montjoye.
-
-
-<center>**Back:** [Module 7 Overview](../module_7/README.md) | **Up:** [Overall Learning Outcomes](../module_0/LearningOutcomes.md) | **Home:** [Module 1 Overview](../module_1/README.md)</center>

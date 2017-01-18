@@ -12,6 +12,10 @@ This module introduces:
 
 A fundamental idea in social physics begins to emerge from this notebook. The idea is that paying attention to a person's social context is better at predicting their behavior than paying attention to their individual features (such as demographics).
 
+Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
+
+We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
+
 ## Notebook 1: Sources of data
 > **Notebook goal**: Use external data sources for data enrichment.
 

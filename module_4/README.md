@@ -1,7 +1,7 @@
 # Module 4: Networks of physical interactions
 Welcome to your practical assessment for Module 4 of MIT Big Data and Social Analytics.
 
-Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
 We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
 
 ## Objective

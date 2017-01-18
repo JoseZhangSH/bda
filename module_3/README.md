@@ -7,7 +7,7 @@ When performing an analysis, you need to validate all of your assumptions, and b
 - Explore the differences between noise and bias, and how you can reduce their impact in a data analysis project; and
 - Apply basic statistical and visual data interrogation methods.
 
-Engage with the tutor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
 
 We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
 
