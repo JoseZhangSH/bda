@@ -10,9 +10,9 @@ Jupyter Notebooks facilitate the learning experience by offering the ability to 
 
 During Module 1, you will be provided with three notebooks, which will introduce you to Python and the basic data analysis libraries. The focus will then shift from programming and syntax to the useful examples aligned with the video content and additional resources in subsequent modules.
 
-Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team and fellow students in the forums to get help, and share your insights and learning experiences.
 
-We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
+We hope that you enjoy this course, and that you will acquire and refine skills that are of use to you in your personal journey.
 
 ## Notebook 1: Python introduction
 This notebook provides an introduction to the programming language, Python. There will be some intense learning for non-technical users. Keeping in mind that this is not a Python course, the aim is to tackle the most challenging task first. There is a significant amount of content covered in this notebook, but the exercises are kept to a minimum. In future modules, you will be provided with sample scripts where you will need to apply minor changes (such as parameter changes), add or change group by clauses, and, in some cases, combine sections of code to produce the desired results. The intention of the first notebook is to provide you with enough background to be able to perform these activities.
@@ -53,5 +53,5 @@ Once you have mastered a task, you will be able to make it seem effortless to ot
 
 
 
-**Contributors**:
+**Notebook Contributors**:
 **Andre Voges**, Mieszko Manijak, **Gorden Jemwa**, Arek Stopczynski, Xiaowen Dong, and Yves-Alexandre de Montjoye.

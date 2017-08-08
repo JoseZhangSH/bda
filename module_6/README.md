@@ -6,9 +6,9 @@ Welcome to your practical assessment for Module 6 of MIT Big Data and Social Ana
 ## Objective
 This module explores how to affect behavior change through social influence and social incentives, as well as the importance of privacy-protecting practices.
 
-Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team and fellow students in the forums to get help, and share your insights and learning experiences.
 
-We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
+We hope that you enjoy this course, and that you will acquire and refine skills that are of use to you in your personal journey.
 
 # Notebook 1: Project planning for big data
 > **Notebook goal:** Interpret project life cycle management in big data projects, and the challenges in scaling analytical projects, or integrating these within large organizations.
@@ -33,5 +33,5 @@ Advances in technology have resulted in an increase in data collection on indivi
 
 
 <br></br>
-**Contributors**:
+**Notebook Contributors**:
 **Andre Voges**, **Mieszko Manijak**, **Gorden Jemwa**, Arek Stopczynski, Xiaowen Dong, and **Yves-Alexandre de Montjoye**.

@@ -7,9 +7,9 @@ When performing an analysis, you need to validate all of your assumptions, and b
 - Explore the differences between noise and bias, and how you can reduce their impact in a data analysis project; and
 - Apply basic statistical and visual data interrogation methods.
 
-Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team and fellow students in the forums to get help, and share your insights and learning experiences.
 
-We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
+We hope that you enjoy this course, and that you will acquire and refine skills that are of use to you in your personal journey.
 
 ## Notebook 1: Data exploration: Test your intuition about BSSIDs
 > **Notebook goal**: Justify your assumptions about the data and hypotheses using your own behaviors and patterns.
@@ -43,5 +43,5 @@ This notebook starts by geotagging access points for a single user (in the first
 
 <br></br>
 
-**Contributors**:
+**Notebook Contributors**:
 **Andre Voges**, **Mieszko Manijak**, **Gorden Jemwa**, **Arek Stopczynski**, Xiaowen Dong, and Yves-Alexandre de Montjoye.

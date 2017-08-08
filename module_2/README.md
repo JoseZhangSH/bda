@@ -12,9 +12,9 @@ This module introduces:
 
 A fundamental idea in social physics begins to emerge from this notebook. The idea is that paying attention to a person's social context is better at predicting their behavior than paying attention to their individual features (such as demographics).
 
-Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team and fellow students in the forums to get help, and share your insights and learning experiences.
 
-We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
+We hope that you enjoy this course, and that you will acquire and refine skills that are of use to you in your personal journey.
 
 ## Notebook 1: Sources of data
 > **Notebook goal**: Use external data sources for data enrichment.
@@ -50,5 +50,5 @@ An important and recurring theme in social physics is validating what you expect
 
 
 
-**Contributors**:
+**Notebook Contributors**:
 **Andre Voges**, Mieszko Manijak, **Gorden Jemwa**, Arek Stopczynski, Xiaowen Dong, and Yves-Alexandre de Montjoye.

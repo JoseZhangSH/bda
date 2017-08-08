@@ -5,9 +5,9 @@ Welcome to your practical assessment for Module 7 of MIT Big Data and Social Ana
 ## Objective
 This module explores how to use data analysis to affect a desired change, and apply big data in various industries.
 
-Engage with the mentor team in the forums if you get stuck, or if you learn something that you think is useful.
+Engage with the mentor team and fellow students in the forums to get help, and share your insights and learning experiences.
 
-We hope that you enjoy this course, and acquire skills that are of use to you in your personal journey.
+We hope that you enjoy this course, and that you will acquire and refine skills that are of use to you in your personal journey.
 
 # Notebook 1: "Friends and Family" study review
 > **Notebook goal:** Create a blueprint for a big data and (social) analytics project.
@@ -30,5 +30,5 @@ In this notebook, you will be introduced to a number of use cases and applicatio
 
 
 <br></br>
-**Contributors**:
+**Notebook Contributors**:
 **Andre Voges**, **Mieszko Manijak**, **Gorden Jemwa**, Arek Stopczynski, Xiaowen Dong, and Yves-Alexandre de Montjoye.
