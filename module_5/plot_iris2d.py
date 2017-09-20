@@ -40,7 +40,6 @@ plt.title("Iris data: Plot of sepal features with class information overlayed")
 plt.xlabel("sepal length (cm)")
 plt.ylabel("sepal width (cm)")
 ax = plt.gca()
-ax.set_axis_bgcolor('#D3D3D3')
-
+ax.set_facecolor('#D3D3D3')
 
 plt.show()
